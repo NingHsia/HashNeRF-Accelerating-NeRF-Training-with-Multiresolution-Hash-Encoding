@@ -1,0 +1,11 @@
+torch==2.2.1
+tqdm
+imageio>=2.34.0
+numpy>=1.24.4
+opencv-python-headless>=4.9.0.80
+pyvista>=0.43.3
+kornia>=0.7.1
+configargparse
+scikit-image>=0.17.2
+scikit-learn>=0.23.2
+imgviz>=1.2.2
