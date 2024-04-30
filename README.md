@@ -1,7 +1,7 @@
 # HashNeRF Accelerating NeRF Training with Multiresolution Hash Encoding
 This is the final project for COMS W4732 Computer Vision II. Report is available [here](https://github.com/NingHsia/HashNeRF-Accelerating-NeRF-Training-with-Multiresolution-Hash-Encoding/blob/main/report.pdf).
 
-This project is built on top of [hashNeRF-pytorch](https://github.com/NingHsia/HashNeRF-Accelerating-NeRF-Training-with-Multiresolution-Hash-Encoding) implementation.
+This project is built on top of [HashNeRF-pytorch](https://github.com/NingHsia/HashNeRF-Accelerating-NeRF-Training-with-Multiresolution-Hash-Encoding) implementation.
 
 ## Getting Started
 ### Requirements
