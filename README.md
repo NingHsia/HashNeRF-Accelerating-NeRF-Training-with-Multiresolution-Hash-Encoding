@@ -1,4 +1,5 @@
-# HashNeRF-pytorch
+# HashNeRF Accelerating NeRF Training with Multiresolution Hash Encoding
+This is the final project for COMS W4732 Computer Vision II.
 [Instant-NGP](https://github.com/NVlabs/instant-ngp) recently introduced a Multi-resolution Hash Encoding for neural graphics primitives like [NeRFs](https://www.matthewtancik.com/nerf). The original NVIDIA implementation mainly in C++/CUDA, based on [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn), can train NeRFs upto 100x faster!
 
 This project is a **pure PyTorch** implementation of [Instant-NGP](https://github.com/NVlabs/instant-ngp), built with the purpose of enabling AI Researchers to play around and innovate further upon this method.
