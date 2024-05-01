@@ -22,6 +22,8 @@ python run_nerf.py --config configs/fern.txt
 To train for other objects, replace `configs/fern.txt` with `configs/{object}.txt`. You can choose from fern, room, orchids, and leaves.
 
 (Noted that if you place the 'data' folder in a different location from the provided instructions, you will need to update the datadir in the config file accordingly.
+
+You'll see the rendering results in folder logs.
 ### Variation of HashneRF
 To train a `fern` HashNeRF-3RGB model mentioned in the report experiment section:
 ```
